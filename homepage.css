@@ -2,13 +2,6 @@
 	display:inline-block;
 	list-style: none;
 }
-.panel-body {
-	background-color: grey;
-	font-family: Comic sans MS;
-}
-.bg-info{
-	background-color: aqua;
-}
 #my-btn-group{
 	border: 1px solid black;
 	background-color: white;
